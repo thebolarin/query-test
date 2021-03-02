@@ -8,7 +8,7 @@
 This is a test to get 300k user datas and display them on a view with a search functionality developed by Moses Odutusin.
 
 ## Installation and running server :gear:
-* Clone the repo to your local machine using your _terminal_ or _command prompt_, and afterwards ,cd into the folder and enter
+* Clone the repo to your local machine using your _terminal_ or _command prompt_, and afterwards input your database env details ,cd into the folder and enter
 ```shell script
 $ php artisan serve
 Starting Laravel development server: http://127.0.0.1:8000
