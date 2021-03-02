@@ -1,4 +1,4 @@
-# Tikeets
+# Users
 
    [Overview :User datas with a search term:](#overview-user_data_with_a_search_term)
 -   [Installation and running server (Development) :gear:](#installation-and-running-server-gear)
@@ -15,10 +15,6 @@ Starting Laravel development server: http://127.0.0.1:8000
 ```
 
 point your browser to ```localhost:8000```
-
-## API :cloud_with_lightning: 
-Various API's were tested for the development of this project
-* Get all users : GET /users
 
 To see the test written for these project and also to generate 300k user records, run this command in your command line
 ```shell script
